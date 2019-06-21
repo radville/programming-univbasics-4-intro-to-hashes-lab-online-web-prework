@@ -4,6 +4,8 @@ end
 
 def my_hash
   my_hash = {
+    :name = "Laura"
+  }
 end
 
 def pioneer
